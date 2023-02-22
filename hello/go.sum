@@ -1,2 +1,4 @@
 github.com/dandawong/go-learning/greetings v0.0.0-20230222060041-42cfd8966f1b h1:9Ea7R0zYtAThHf+e/Zz8x6vQwnDSxtX07rtuo5WpFDA=
 github.com/dandawong/go-learning/greetings v0.0.0-20230222060041-42cfd8966f1b/go.mod h1:O7zjexDT/RFeVBXcPKFRMaJOdDKHWBghzsB786aI274=
+github.com/dandawong/go-learning/greetings v0.0.0-20230222060533-ad4dfdd71cff h1:zvEAm6ftyonWaaJ1GIertWiZCNi7aKZcoyNVNM1C724=
+github.com/dandawong/go-learning/greetings v0.0.0-20230222060533-ad4dfdd71cff/go.mod h1:O7zjexDT/RFeVBXcPKFRMaJOdDKHWBghzsB786aI274=
